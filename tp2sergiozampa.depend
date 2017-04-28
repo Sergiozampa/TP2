@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1493348424 source:c:\users\usuario\desktop\tp2sergiozampa\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1493348424 c:\users\usuario\desktop\tp2sergiozampa\funciones.h
+
+1493348332 source:c:\users\usuario\desktop\tp2sergiozampa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493349053 source:c:\users\usuario\desktop\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1493348424 c:\users\usuario\desktop\tp2\funciones.h
+
+1493348332 source:c:\users\usuario\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
